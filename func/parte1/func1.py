@@ -7,4 +7,6 @@ def area():
     area = a * b
     print(f'A area de um terreno {a}x{b} é de {area}m²')
 
-area()
+
+
+

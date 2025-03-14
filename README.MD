@@ -8,7 +8,7 @@ Repositório criado para armazenar minha resolução dos desafios de programaç�
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Python 3**  
-- Jupyter Notebook (opcional)  
+  
 
 ## 🚀 Objetivo  
 Praticar lógica de programação, conceitos de Python e consolidar o aprendizado com exercícios práticos.  

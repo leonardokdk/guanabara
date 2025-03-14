@@ -6,14 +6,23 @@ b) de 10 até 0, de 2 em 2
 c) uma contagem personalizada """
 from time import sleep
 def contador(entrada, saida , passo):
+    """ 
+    :param entrada: de onde começa a contagem
+    :param saida: até onde a contagem vai
+    :param passo: de quanto em quanto é para pular
+    :return: nada 
+     """
     print('-'*20)
     print(f'Contador de {entrada} até {saida}')
     for i in range(entrada, saida, passo):
         print(i, end=' ', flush = True)
         sleep(0.5)
     print()
-
+    
+help(contador)
 contador(1,10,1)
 contador(10,-1,-1)
 print('AGORA É SUA VEZ!!')
 contador(int(input('Entrada: ')), int(input('Até: ')), int(input('Passo: ')) )
+
+
