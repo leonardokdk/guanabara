@@ -1,0 +1,6 @@
+Alem da criação de um aleatorizador de filmes acho que vou fazer uma lista com os filmes que gosto,
+ ranking e tals posso usar dicionario pra isso, talvez um banco de dados nao relacional ou somente um
+ arquivo pra persistencia de dados
+
+2023 + 35 
+2058-2002
